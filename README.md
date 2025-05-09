@@ -56,6 +56,7 @@ https://github.com/Viktoriaprzegalinskaa/automatic-octo-carnival/blob/main/i%20(
 - Уведомляет администратора о предстоящей встрече.
 
 ---
+![image](https://github.com/user-attachments/assets/a340f342-b2e5-4b08-a6f7-568896686678)
 
 ## 🛠️ Использованные технологии и инструменты
 
