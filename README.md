@@ -1,6 +1,7 @@
 Вот подробное описание проекта в формате **Markdown**:
 
 ---
+![image](https://github.com/user-attachments/assets/2632feb0-495e-4ef9-88ca-c1466bbd330a)
 
 # 💅 ИИ-ассистент для салона ногтевого сервиса
 https://github.com/Viktoriaprzegalinskaa/automatic-octo-carnival/blob/main/i%20(2).webp
